@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/capa.webp"
+    src=".\capa.webp"
     width="300"
 />
 </p>
@@ -18,7 +18,7 @@
 </a>
 </p>
 
-Acesse o dashboard <a href="outputs\Dashboard DIO.xlsx">aqui</a>.
+Acesse o dashboard <a href="\Dashboard DIO.xlsx">aqui</a>.
 
 # Projeto Dashboard Financeiro
 
